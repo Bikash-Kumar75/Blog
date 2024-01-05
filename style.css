@@ -153,10 +153,10 @@ a{
 }
 
 footer {
-    background-color: #333;
+    background-color: #6b8ca1;
     color: white;
     padding: 20px;
     text-align: center;
     border: 1px solid rgba(196, 194, 194, 0.714);
-    border-radius: 8px;
+    border-radius: 6px;
 }
